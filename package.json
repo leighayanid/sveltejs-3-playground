@@ -19,7 +19,7 @@
     "start:dev": "sirv public --dev"
   },
   "dependencies": {
-    "firebase": "^6.3.1",
+    "firebase": "^7.15.4",
     "rxfire": "^3.4.0",
     "rxjs": "^6.5.1"
   }
